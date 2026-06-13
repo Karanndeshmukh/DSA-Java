@@ -1,7 +1,7 @@
 //union of two sorted arrays
 package Arrays.Easy;
 import java.util.*;
-public class union {
+public class UnionSortedArray {
     public static void main(String[] args) {
         int[] arr1 = {1, 2, 4, 5, 6};
         int[] arr2 = {2, 3, 5, 7};
