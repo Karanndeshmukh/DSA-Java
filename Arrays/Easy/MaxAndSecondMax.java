@@ -1,5 +1,4 @@
 package Arrays.Easy;
-
 // 1. Find the maximum and second maximum element in an array
 public class MaxAndSecondMax {
     public static void main(String[] args){

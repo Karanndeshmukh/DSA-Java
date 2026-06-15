@@ -1,5 +1,5 @@
-//union of two sorted arrays
 package Arrays.Easy;
+//union of two sorted arrays
 import java.util.*;
 public class UnionSortedArray {
     public static void main(String[] args) {

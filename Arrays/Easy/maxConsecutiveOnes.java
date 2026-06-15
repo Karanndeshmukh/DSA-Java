@@ -1,5 +1,4 @@
 package Arrays.Easy;
-
 //max consecutive ones
 class Solution {
     public int findMaxConsecutiveOnes(int[] nums) {
