@@ -1,4 +1,4 @@
-package Arrays.Easy;
+package Arrays;
 import java.util.Arrays;
 
 public class missingNumber {

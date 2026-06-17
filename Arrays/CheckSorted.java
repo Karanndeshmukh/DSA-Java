@@ -1,4 +1,4 @@
-package Arrays.Easy;
+package Arrays;
 
 // 2. Check if Array is Sorted
 public class CheckSorted {

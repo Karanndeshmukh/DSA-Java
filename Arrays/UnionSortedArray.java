@@ -1,4 +1,4 @@
-package Arrays.Easy;
+package Arrays;
 //union of two sorted arrays
 import java.util.*;
 public class UnionSortedArray {

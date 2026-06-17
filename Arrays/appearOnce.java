@@ -1,4 +1,4 @@
-package Arrays.Easy;
+package Arrays;
 public class appearOnce {
     // Function to find the element that appears only once in an array where every other element appears twice
     public static int findSingle(int[] arr) {

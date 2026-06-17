@@ -1,4 +1,4 @@
-package Arrays.Easy;
+package Arrays;
 // 5. Move Zeros to End
 public class MoveZeros {
     public static void main(String[] args){

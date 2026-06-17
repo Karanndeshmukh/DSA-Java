@@ -1,4 +1,4 @@
-package Arrays.Easy;
+package Arrays;
 // 4. Left Rotate an Array BY K
 public class LeftRotate {
     public static void main(String[] args){

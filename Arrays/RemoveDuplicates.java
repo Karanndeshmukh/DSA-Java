@@ -1,4 +1,4 @@
-package Arrays.Easy;
+package Arrays;
 // 3. Remove Duplicates from Sorted Array
 public class RemoveDuplicates {
     public static void main(String[] args){
