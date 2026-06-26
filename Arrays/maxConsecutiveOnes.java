@@ -1,6 +1,6 @@
 package Arrays;
 //max consecutive ones
-class Solution {
+public class maxConsecutiveOnes {
     public int findMaxConsecutiveOnes(int[] nums) {
         int maxCount = 0;
         int count = 0;
