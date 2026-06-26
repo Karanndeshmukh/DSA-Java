@@ -8,7 +8,7 @@ public class Shiftbbyone {
         int arr[]={1,2,3,4,5,6,7};
         Scanner sc= new Scanner(System.in);
         int k=sc.nextInt(); //2
-        int k = k % arr.length;
+        k = k % arr.length; //remainder times size
         int temp[]= new int[k]; //temp ={0,1}
         //element stored
         for(int j=arr.length-k, t=0; j<=arr.length-1;j++){  //j=5 t=0, j<=6
@@ -19,7 +19,6 @@ public class Shiftbbyone {
         //shift element to right
         for(int i=arr.length-1;i>=k;i--){ 
             arr[i]=arr[i-k];           
-            
         }
 
         //change k element
@@ -27,5 +26,6 @@ public class Shiftbbyone {
             arr[i]=temp[i];
         }
         System.out.println(Arrays.toString(arr));
+        sc.close();
     }
 }
