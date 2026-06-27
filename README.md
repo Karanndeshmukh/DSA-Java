@@ -26,6 +26,7 @@ Data Structures and Algorithms solutions in Java.
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Karanndeshmukh/DSA-Java/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Karanndeshmukh/DSA-Java/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -46,5 +47,10 @@ Data Structures and Algorithms solutions in Java.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Karanndeshmukh/DSA-Java/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Karanndeshmukh/DSA-Java/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Karanndeshmukh/DSA-Java/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
