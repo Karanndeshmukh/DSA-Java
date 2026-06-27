@@ -4,7 +4,7 @@ Data Structures and Algorithms solutions in Java.
 
 ## Learning Sources
 - LeetCode
-- Striver A2Z DSA Sheet
+- Love Babar DSA Sheet
 
 ## Topics Covered
 - Arrays
