@@ -28,6 +28,7 @@ Data Structures and Algorithms solutions in Java.
 | ------- |
 | [0001-two-sum](https://github.com/Karanndeshmukh/DSA-Java/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Karanndeshmukh/DSA-Java/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Karanndeshmukh/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Karanndeshmukh/DSA-Java/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Karanndeshmukh/DSA-Java/tree/master/0268-missing-number) |
 ## Hash Table
@@ -57,5 +58,6 @@ Data Structures and Algorithms solutions in Java.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Karanndeshmukh/DSA-Java/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Karanndeshmukh/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Karanndeshmukh/DSA-Java/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
