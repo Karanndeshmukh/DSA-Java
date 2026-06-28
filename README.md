@@ -6,22 +6,6 @@ Data Structures and Algorithms solutions in Java.
 - LeetCode
 - Love Babar DSA Sheet
 
-## Topics Covered
-- Arrays
-- Hashing
-- Strings
-- Binary Search
-- Linked Lists
-- Recursion
-- Stack & Queue
-- Sliding Window
-- Trees
-
-## Current Progress
-- Arrays: In Progress
-- Patterns: Completed
-- Total Problems Solved: 70+
-<!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
 |  |
