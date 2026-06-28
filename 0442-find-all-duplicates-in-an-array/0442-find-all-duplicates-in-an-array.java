@@ -1,5 +1,21 @@
 class Solution {
     public List<Integer> findDuplicates(int[] nums) {
+        ArrayList<Integer> list=new ArrayList<>();
+        for(int i=0;i<nums.length;i++){
+            int value=Math.abs(nums[i]);
+            int pos=value-1;
+            if(nums[pos]>0){
+                nums[pos]=-nums[pos];
+            }else{
+                list.add(Math.abs(nums[i]));
+            }
+        }
+        return list;
+    }
+}
+/*
+class Solution {
+    public List<Integer> findDuplicates(int[] nums) {
         HashMap<Integer,Integer> freq= new HashMap<>();
         Set<Integer> set=new HashSet<>();
         for(int i=0;i<nums.length;i++){
@@ -13,3 +29,4 @@ class Solution {
         return new ArrayList<>(set);
     }
 }
+*/
